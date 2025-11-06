@@ -4,7 +4,7 @@
 
 **`Analista de Dados`**
 ## 😊 Sobre mim
-Meu nome é Gabriel Yanes, sou originalmente de São Paulo litoral e atualmente moro na grande capital de SP realizando o curso de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Já atuei com diversas tecnologias e já tive enorme paixão pelo desenvolvimento front-end. Atualmente atuo na área de dados com tecnologias como Python, Power BI, Excel e SQL. Tecnologia é uma das minhas paixões e não consigo me imaginar sem atuar na área. 
+Meu nome é Gabriel Yanes, sou originalmente do litoral de São Paulo e atualmente moro na grande capital de SP realizando o curso de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Já atuei com diversas tecnologias e já tive enorme paixão pelo desenvolvimento front-end. Atualmente atuo na área de dados com tecnologias como Python, Power BI, Excel e SQL. Tecnologia é uma das minhas paixões e não consigo me imaginar sem atuar na área. 
 
 ---
 
