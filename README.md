@@ -123,6 +123,6 @@ Meu nome é Gabriel Yanes, sou originalmente de São Paulo litoral e atualmente 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabeyanes&show_icons=true&theme=dark&card_width=320&include_all_commits=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabeyanes&layout=compact&langs_count=9&card_width=320&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabeyanes&layout=compact&langs_count=10&card_width=320&show_icons=true&theme=dark" />
 </a>
 
